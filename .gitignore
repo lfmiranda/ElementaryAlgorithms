@@ -1,0 +1,7 @@
+# CLion project files
+.idea/
+CMakeLists.txt
+cmake-build-debug/
+
+# Misc
+.DS_Store
